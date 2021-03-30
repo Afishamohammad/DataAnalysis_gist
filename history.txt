@@ -1,0 +1,41 @@
+    1  pwd
+    2  ls
+    3  touch demo.txt
+    4  ls
+    5  mkdir GIST
+    6  cd GIST
+    7  pwd
+    8  cd ..
+    9  windows+e
+   10  cd e:
+   11  /d
+   12  cd c:
+   13  cd C:
+   14  cd c:
+   15  pwd
+   16  pwd
+   17  cd c:
+   18  cd C:\Users\dell\Desktop\priyanka-446
+   19  pwd
+   20  cd C:/Users/dell/Desktop/priyanka-446
+   21  echo {1..10}
+   22  touch file{1..100}.txt
+   23  touch python{20..50}.py
+   24  touch clanguage{50..70}.cpp
+   25  pwd
+   26  ls
+   27  rmdir mohd-498
+   28  rm demo.txt
+   29  nano myfile.txt
+   30  nano myfile.txt
+   31  cat myfile.txt
+   32  echo "HELLO" >> myfile2.txt
+   33  cat myfile2.txt
+   34  echo {1..100} >> myfile3.txt
+   35  cat myfile.3.txt
+   36  cat myfile3.txt
+   37  mv myfile3.txt myfile2.txt
+   38  cat myfile2.txt
+   39  ls
+   40  history
+   41  history >>history.txt
